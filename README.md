@@ -20,7 +20,7 @@ The IP addresses are stored in CSV format with the following fields:
 ## Usage Examples
 ```bash
 # Download the latest IP list
-wget https://raw.githubusercontent.com/yourusername/MullVadIPs/main/mullvad_ips.csv
+wget https://raw.githubusercontent.com/sudesh0sudesh/MullVadIPs/main/mullvad_ips.csv
 ```
 
 ## Disclaimer
