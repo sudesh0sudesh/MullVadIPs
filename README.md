@@ -1,4 +1,4 @@
-# MullVadIPs
+# MullVad IPs
 Repository for Mullvad VPN IP Addresses
 
 ## Description
